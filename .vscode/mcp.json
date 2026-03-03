@@ -1,0 +1,14 @@
+{
+	"servers": {
+		"TryMCP": {
+			"type": "stdio",
+			"command": "dotnet",
+			"args": [
+				"run",
+                "--project",
+                "C:/Users/saurabh.davda/mcp/TryMCP/TryMCP.csproj"
+			]
+		}
+	},
+	"inputs": []
+}
